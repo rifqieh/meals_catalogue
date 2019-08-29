@@ -6,6 +6,6 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(title: 'Daftar Makanan', home: HomePage());
+    return MaterialApp(title: 'Meals Catalogue', home: HomePage());
   }
 }
